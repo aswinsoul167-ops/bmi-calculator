@@ -1,2 +1,14 @@
-# bmi-calculator
-A BMI calculator that helps users calculate and understand their Body Mass Index.
+# BMI Calculator
+
+A Body Mass Index calculator for checking health status based on height and weight.
+
+## Features
+
+- BMI calculation
+- Instant results
+- Simple interface
+- Responsive design
+
+## Status
+
+🚧 Work in Progress
